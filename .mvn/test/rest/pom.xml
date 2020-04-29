@@ -22,7 +22,7 @@
 		<hibernate.jpa21.version>1.0.0.Final</hibernate.jpa21.version>
 		<hibernate.version>4.3.0.Beta5</hibernate.version>
 		<hsqldb.version>2.3.1</hsqldb.version>
-		<jackson.version>2.2.3</jackson.version>
+		<jackson.version>2.11.0</jackson.version>
 	</properties>
 	
 	<dependencies>
