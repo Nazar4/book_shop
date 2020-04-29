@@ -36,9 +36,9 @@
                 </tbody>
             </table>
 
-            <h4><label>Products in Basket: ${basket.totalProduct}</label></h4>
+            <h4><label>Products in Basket: ${basket.allProduct}</label></h4>
             <br>
-            <h4><label>Full price : ${basket.totalPrice}</label></h4>
+            <h4><label>Full price : ${basket.allPrice}</label></h4>
 
 
 
