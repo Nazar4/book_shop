@@ -20,7 +20,7 @@
 		<spring.data.elasticsearch.version>1.0.0.BUILD-PATCHED-SNAPSHOT</spring.data.elasticsearch.version>
 		<spring.plugin.core.version>0.8.0.RELEASE</spring.plugin.core.version>
 		<hibernate.jpa21.version>1.0.0.Final</hibernate.jpa21.version>
-		<hibernate.version>4.3.0.Beta5</hibernate.version>
+		<hibernate.version>5.3.20.Final</hibernate.version>
 		<hsqldb.version>2.3.1</hsqldb.version>
 		<jackson.version>2.12.1</jackson.version>
 	</properties>
